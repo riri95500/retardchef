@@ -1,0 +1,1 @@
+Sitemap: https://retardchef.vercel.app/sitemap.xml
